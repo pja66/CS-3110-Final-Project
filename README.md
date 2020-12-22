@@ -2,7 +2,7 @@
 
 Cornell CS 3110 (Final Project)
 
-Group members: Philip Ayoub (pja66), Jacob Goldstein (jgb324), Brendan Sullivan (bzs5), David Schmaier (dms482)
+Group members: Philip Ayoub (pja66), Jacob Goldstein (jgb324), Brendan Sullivan (bzs5), and David Schmaier (dms482)
 
 Overview:
 
