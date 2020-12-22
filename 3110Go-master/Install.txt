@@ -1,0 +1,23 @@
+Instructions:
+
+If there is ever a bug running a make command, run make clean
+Installations:
+  -run: 'make install'
+
+Build Instructions:
+  -run: 'make clean'
+  -run: 'make build'
+
+Play Instructions: 
+  -run: 'make clean'
+  -run: 'make play'
+
+Server Instructions: 
+  -run: 'make clean'
+  -run: 'make establish'
+  Open a new terminal
+  -run: 'make connect'
+
+  “show”:  This will display the moves that have been recorded
+ “add (x,y)”: This will add move (x,y), where x, y are strings repenting 
+ coordinates, to the list of recorded moves.
